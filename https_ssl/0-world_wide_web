@@ -1,5 +1,5 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
+#a Bash script that will display information about subdomains.
 # Function to get subdomain information
 get_subdomain_info() {
   local domain=$1
